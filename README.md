@@ -2,7 +2,7 @@
 I am a graduate Mechanical Engineering student at Clemson University, with expertise in robotics and optimal control. My current project involves data-driven control for quadruped locomotion over challenging terrains. This involves trajectory optimization using a global planner and optimal control using a model predictive control. Besides this, I have designed adaptive control algorithms for collaborative manipulation using multiagent systems for drones and ground robots.
 
 - 👀 I’m interested in ...
-- Data-driven control
+-- Data-driven control
 - Motion Planning
 - Optimal Control
 - Model Predictive Control
