@@ -14,7 +14,17 @@ I am a graduate Mechanical Engineering student at Clemson University, with exper
   - Robotic simulations using ROS and Gazebo
 
 - 🌱 I’m currently learning dual mode MPC and MPPI for quadruped locomotion with safety guarantees
+- I love developing [learning-based control](https://github.com/sriram-2502/Deep_Koopman_AutoEncoder) for complex nonlinear systems such as quadruped robots
+
+
+
 - 📫 How to reach me ... sriramk@clemson.edu or tweet at me @sriram2502
+
+
+
+
+
+
 
 <!---
 sriram-2502/sriram-2502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
