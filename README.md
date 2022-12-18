@@ -9,12 +9,13 @@ I am a graduate Mechanical Engineering student at Clemson University, with exper
   - Model Predictive Control
   - Reinforcement learning
 
+
+- Check out my recent projects 
+  - I designed a [LTV MPC for quadruped locomotion](https://github.com/AndrewZheng-1011/Quad_ConvexMPC)
+  - I wroked on a density based [motion planner](https://github.com/AndrewZheng-1011/Density-Feedback-Control/tree/robotic_arm) for robots
+  - I developed a [Koopman Autoencoder](https://github.com/sriram-2502/Deep_Koopman_AutoEncoder) for learning-based control complex nonlinear systems such as quadruped robots
+
 - 🌱 I’m currently learning dual mode MPC and MPPI for quadruped locomotion with safety guarantees
-- Check out my recent project where I designed a [LTV MPC for quadruped locomotion](https://github.com/AndrewZheng-1011/Quad_ConvexMPC)
-- I love developing [learning-based control](https://github.com/sriram-2502/Deep_Koopman_AutoEncoder) for complex nonlinear systems such as quadruped robots
-
-
-
 - 📫 How to reach me ... sriramk@clemson.edu or tweet at me @sriram2502
 
 
