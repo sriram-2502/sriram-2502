@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sriram Krishnamoorthy 👋</h1>
 
 <p align="center">
-  Graduate Mechanical Engineering Student at Clemson University <br>
+  Postdoctoral Researcher at Clemson University <br>
   Robotics • Optimal Control • Motion Planning • Data-Driven Control
 </p>
 
@@ -20,9 +20,9 @@
 
 ## About Me
 
-I am a graduate Mechanical Engineering student at Clemson University working at the intersection of robotics, optimal control, and learning-based autonomy.
+I am a postdoctoral researcher at Clemson University working at the intersection of robotics, optimal control, and learning-based autonomy.
 
-My current research focuses on **data-driven control for quadruped locomotion over challenging terrains**, combining trajectory optimization, global planning, and model predictive control. I have also worked on adaptive control algorithms for collaborative manipulation using multi-agent systems, including drones and ground robots.
+My current research focuses on **data-driven control for Legged locomotion over challenging terrains**, combining trajectory optimization, global planning, and model predictive control. I have also worked on adaptive control algorithms for collaborative manipulation using multi-agent systems, including drones and ground robots.
 
 ---
 
