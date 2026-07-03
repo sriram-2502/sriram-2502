@@ -1,39 +1,129 @@
-- 👋 Hi, I’m Sriram Krishnamoorthy
-I am a graduate Mechanical Engineering student at Clemson University, with expertise in robotics and optimal control. My current project involves data-driven control for quadruped locomotion over challenging terrains. This involves trajectory optimization using a global planner and optimal control using a model predictive control. Besides this, I have designed adaptive control algorithms for collaborative manipulation using multi-agent systems for drones and ground robots.
+<h1 align="center">Hi, I'm Sriram Krishnamoorthy 👋</h1>
 
-- 👀 I’m interested in ...
-  - Data-driven control
-  - Motion Planning
-  - Optimal Control
-  - Model Predictive Control
-  - Deep learning
-  - Reinforcement learning
-
-
-- Check out my recent projects:
-  - I developed [SE(3) Koopman-MPC](https://github.com/sriram-2502/KoopmanMPC_Quadrotor) framework for data-driven control using the Koopman operator and model predictive controller for quadrotors and quadruped robots.    
-  - I designed a linear time-varying [model predictive controller](https://github.com/AndrewZheng-1011/Quad_ConvexMPC) for quadruped locomotion 
-  - I formulated a density-based [motion planner](https://github.com/sriram-2502/time_varying_density) for safe navigation of robotic systems
-  - I developed a [Koopman Autoencoder](https://github.com/sriram-2502/Deep_Koopman_AutoEncoder) for learning-based control complex nonlinear systems such as quadruped robots
-
- - Check out my [Google Scholar](https://scholar.google.com/citations?user=-kMTFjwAAAAJ&hl=en)
-
-- 🌱 I’m currently learning about traversability mapping using LIDARs for off-road navigation
-- 📫 How to reach me ... sriramk@clemson.edu or tweet at me @sriram2502
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sriram-2502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-2502" />
+<p align="center">
+  Graduate Mechanical Engineering Student at Clemson University <br>
+  Robotics • Optimal Control • Motion Planning • Data-Driven Control
 </p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sriram-2502/KoopmanMPC_Quadrotor&type=Date)](https://star-history.com/#sriram-2502/KoopmanMPC_Quadrotor&Date)
+<p align="center">
+  <a href="mailto:sriramk@clemson.edu">Email</a> •
+  <a href="https://scholar.google.com/citations?user=-kMTFjwAAAAJ&hl=en">Google Scholar</a> •
+  <a href="https://github.com/sriram-2502">GitHub</a> •
+  <a href="https://x.com/sriram2502">X / Twitter</a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriram-2502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-2502 profile views" />
+</p>
 
+---
 
+## About Me
 
+I am a graduate Mechanical Engineering student at Clemson University working at the intersection of robotics, optimal control, and learning-based autonomy.
 
+My current research focuses on **data-driven control for quadruped locomotion over challenging terrains**, combining trajectory optimization, global planning, and model predictive control. I have also worked on adaptive control algorithms for collaborative manipulation using multi-agent systems, including drones and ground robots.
 
-<!---
-sriram-2502/sriram-2502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Research Interests
+
+* Data-driven control
+* Motion planning
+* Optimal control
+* Model predictive control
+* Koopman operator methods
+* Deep learning for robotics
+* Reinforcement learning
+* Legged robot locomotion
+* Off-road autonomy and traversability mapping
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sriram-2502/KoopmanMPC_Quadrotor">SE(3) Koopman-MPC</a></h3>
+      <p>
+        Data-driven control framework using Koopman operator theory and model predictive control for quadrotors and quadruped robots.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sriram-2502/KoopmanMPC_Quadrotor?style=social" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/sriram-2502/rk-mpc">RK-MPC</a></h3>
+      <p>
+        Model predictive control framework for robotics applications with a focus on structured dynamics and efficient optimization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sriram-2502/rk-mpc?style=social" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sriram-2502/Deep_Koopman_AutoEncoder">Deep Koopman Autoencoder</a></h3>
+      <p>
+        Learning-based Koopman autoencoder framework for representing complex nonlinear robotic systems in lifted latent coordinates.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sriram-2502/Deep_Koopman_AutoEncoder?style=social" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/sriram-2502/safe_control_density">Safe Control Density</a></h3>
+      <p>
+        Density-based motion planning and safe control framework for robotic navigation and obstacle avoidance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sriram-2502/safe_control_density?style=social" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AndrewZheng-1011/Quad_ConvexMPC">Quadruped Convex MPC</a></h3>
+      <p>
+        Linear time-varying model predictive controller for quadruped locomotion and whole-body motion generation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/AndrewZheng-1011/Quad_ConvexMPC?style=social" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Current Work</h3>
+      <p>
+        I am currently learning and developing methods for traversability mapping using LiDAR for off-road robot navigation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sriram-2502&show_icons=true&theme=default" alt="Sriram's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-2502&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+* Email: [sriramk@clemson.edu](mailto:sriramk@clemson.edu)
+* Google Scholar: [Sriram Krishnamoorthy](https://scholar.google.com/citations?user=-kMTFjwAAAAJ&hl=en)
+* X / Twitter: [@sriram2502](https://x.com/sriram2502)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
