@@ -26,6 +26,10 @@ I am a graduate Mechanical Engineering student at Clemson University, with exper
   <img src="https://komarev.com/ghpvc/?username=sriram-2502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-2502" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sriram-2502&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
 
 
 
