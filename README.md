@@ -22,7 +22,9 @@ I am a graduate Mechanical Engineering student at Clemson University, with exper
 - 📫 How to reach me ... sriramk@clemson.edu or tweet at me @sriram2502
 
 
-![Profile Views](https://komarev.com)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sriram-2502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-2502" />
+</p>
 
 
 
