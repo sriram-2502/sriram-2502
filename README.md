@@ -107,11 +107,17 @@ My current research focuses on **data-driven control for quadruped locomotion ov
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriram-2502&show_icons=true&theme=default" alt="Sriram's GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sriram-2502&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" 
+    alt="Sriram's GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-2502&layout=compact" alt="Top languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-2502&layout=compact&hide_border=true" 
+    alt="Top languages" 
+  />
 </p>
 
 ---
