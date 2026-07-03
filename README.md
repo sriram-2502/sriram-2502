@@ -104,20 +104,13 @@ My current research focuses on **data-driven control for quadruped locomotion ov
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sriram-2502&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" 
-    alt="Sriram's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-2502&layout=compact&hide_border=true" 
-    alt="Top languages" 
-  />
+  <img src="https://img.shields.io/github/followers/sriram-2502?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sriram-2502/KoopmanMPC_Quadrotor?style=social" alt="KoopmanMPC_Quadrotor stars" />
+  <img src="https://img.shields.io/github/stars/sriram-2502/rk-mpc?style=social" alt="RK-MPC stars" />
+  <img src="https://img.shields.io/github/stars/sriram-2502/Deep_Koopman_AutoEncoder?style=social" alt="Deep Koopman Autoencoder stars" />
 </p>
 
 ---
