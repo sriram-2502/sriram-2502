@@ -63,6 +63,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/sriram-2502/Deep_Koopman_AutoEncoder">Deep Koopman Autoencoder</a></h3>
@@ -83,6 +84,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/AndrewZheng-1011/Quad_ConvexMPC">Quadruped Convex MPC</a></h3>
@@ -94,9 +96,12 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
     <td width="50%">
-      <h3>Current Work</h3>
+      <h3><a href="https://github.com/sriram-2502/mpc_cdf">MPC-CDF</a></h3>
       <p>
-        I am currently learning and developing methods for traversability mapping using LiDAR for off-road robot navigation.
+        Model predictive control framework combined with control density functions for safe, constrained robotic motion planning and control.
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sriram-2502/mpc_cdf?style=social" />
       </p>
     </td>
   </tr>
