@@ -45,7 +45,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/sriram-2502/KoopmanMPC_Quadrotor">SE(3) Koopman-MPC</a></h3>
+      <h3><a href="https://github.com/sriram-2502/KoopmanMPC_Quadrotor">SE(3) Koopman-MPC for Agile Qaudrotors</a></h3>
       <p>
         Data-driven control framework using Koopman operator theory and model predictive control for quadrotors and quadruped robots.
       </p>
@@ -54,7 +54,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/sriram-2502/rk-mpc">RK-MPC</a></h3>
+      <h3><a href="https://github.com/sriram-2502/rk-mpc">Residual Koopman-MPC for Offroad Qaudrupeds</a></h3>
       <p>
         Model predictive control framework for robotics applications with a focus on structured dynamics and efficient optimization.
       </p>
@@ -75,7 +75,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/sriram-2502/safe_control_density">Safe Control Density</a></h3>
+      <h3><a href="https://github.com/sriram-2502/safe_control_density">Safe Control using Density Functions</a></h3>
       <p>
         Density-based motion planning and safe control framework for robotic navigation and obstacle avoidance.
       </p>
@@ -87,7 +87,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
 
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/AndrewZheng-1011/Quad_ConvexMPC">Quadruped Convex MPC</a></h3>
+      <h3><a href="https://github.com/AndrewZheng-1011/Quad_ConvexMPC">Convex MPC for Quadruped</a></h3>
       <p>
         Linear time-varying model predictive controller for quadruped locomotion and whole-body motion generation.
       </p>
@@ -96,7 +96,7 @@ My current research focuses on **data-driven control for Legged locomotion over 
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/sriram-2502/mpc_cdf">MPC-CDF</a></h3>
+      <h3><a href="https://github.com/sriram-2502/mpc_cdf">Safe MPC using Control Density Functions</a></h3>
       <p>
         Model predictive control framework combined with control density functions for safe, constrained robotic motion planning and control.
       </p>
